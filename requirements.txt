@@ -1,0 +1,12 @@
+playsound==1.2.2
+SpeechRecognition
+pyttsx3
+openai
+requests
+pyaudio
+pillow
+tk
+opencv-python
+mediapipe
+tkvideo
+
